@@ -1,0 +1,69 @@
+--stations
+
+# L6 Circular
+Cuatro Caminos
+Nuevos Ministerios
+República Argentina
+Avenida de América
+Diego de León
+Manuel Becerra
+O'Donnell
+Sainz de Baranda
+Conde de Casal
+Pacífico
+Méndez Álvaro
+Arganzuela-Planetario
+Legazpi
+Usera
+Plaza Elíptica
+Opañel
+Oporto
+Carpetana
+Laguna
+Lucero
+Alto de Extremadura
+Puerta del Ángel
+Príncipe Pío
+Argüelles
+Moncloa
+Ciudad Universitaria
+Metropolitano
+Guzmán el Bueno
+
+
+--lines
+M6|M6|Line 6|color:#999999
+
+--transfers
+
+--segments
+
+# Line 6
+M6|Cuatro Caminos|Nuevos Ministerios
+M6|Nuevos Ministerios|República Argentina
+M6|República Argentina|Avenida de América
+M6|Avenida de América|Diego de León
+M6|Diego de León|Manuel Becerra
+M6|Manuel Becerra|O'Donnell
+M6|O'Donnell|Sainz de Baranda
+M6|Sainz de Baranda|Conde de Casal
+M6|Conde de Casal|Pacífico
+M6|Pacífico|Méndez Álvaro
+M6|Méndez Álvaro|Arganzuela-Planetario
+M6|Arganzuela-Planetario|Legazpi
+M6|Legazpi|Usera
+M6|Usera|Plaza Elíptica
+M6|Plaza Elíptica|Opañel
+M6|Opañel|Oporto
+M6|Oporto|Carpetana
+M6|Carpetana|Laguna
+M6|Laguna|Lucero
+M6|Lucero|Alto de Extremadura
+M6|Alto de Extremadura|Puerta del Ángel
+M6|Puerta del Ángel|Príncipe Pío
+M6|Príncipe Pío|Argüelles
+M6|Argüelles|Moncloa
+M6|Moncloa|Ciudad Universitaria
+M6|Ciudad Universitaria|Metropolitano
+M6|Metropolitano|Guzmán el Bueno
+M6|Guzmán el Bueno|Cuatro Caminos
