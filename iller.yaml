@@ -7,12 +7,15 @@ header:
 prereqs:
   runtime:
     requires:
+      - perl: 5.014000
+      - Moose::Role: 2.0000
+      - Map::Metro: 0.1900
 
 plugins:
   - +config: Author::CSSON
 
   - +extend_plugin: Git::GatherDir
-	exclude_match: \.png
+    exclude_match: \.png
 
   - +plugin: MapMetro::MakeGraphViz
   
