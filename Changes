@@ -1,4 +1,29 @@
 Revision history for Map-Metro-Plugin-Map-Madrid
 
 {{$NEXT}}
-   - Initial release
+ [Other Changes]
+ - Rebuilt with current dzil configuration.
+
+ [Bug Fixes]
+
+ [Documentation]
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Requirements]
+
+ [Revision]
+
+ [Testing]
+
+0.1001 2015-03-20T11:43:25Z CET
+ [Meta]
+ - Replaced iller.ini with iller.yaml config: Fixes most kwalitee problems.
+
+0.1000 2015-01-08T00:31:28Z CET
+ - Initial release
+

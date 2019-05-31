@@ -1,7 +1,11 @@
-/Map-Metro-Plugin-Map-Madrid-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2019-05-31 19:03:50 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0322
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+Map-Metro-Plugin-Map-Madrid-*
