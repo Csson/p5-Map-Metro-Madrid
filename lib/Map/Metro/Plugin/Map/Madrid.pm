@@ -2,7 +2,9 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Madrid;
 
-# VERSION
+# ABSTRACT: Map::Metro map for Madrid
+# AUTHORITY
+our $VERSION = '0.1002';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -18,8 +20,6 @@ sub map_package {
 }
 
 1;
-
-# ABSTRACT: Map::Metro map for Madrid
 
 __END__
 
