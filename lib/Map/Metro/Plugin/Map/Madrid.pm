@@ -4,7 +4,7 @@ package Map::Metro::Plugin::Map::Madrid;
 
 # ABSTRACT: Map::Metro map for Madrid
 # AUTHORITY
-our $VERSION = '0.1002';
+our $VERSION = '0.1003';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
